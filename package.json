@@ -1,0 +1,38 @@
+{
+  "name": "movies-store-starter-kit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:appbaseio-apps/movies-store-starter-kit.git",
+  "author": "Deepak Grover <deepakgrover333@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/babel-preset-css-prop": "^10.0.9",
+    "@emotion/core": "^10.0.10",
+    "@emotion/styled": "^10.0.11",
+    "antd": "^3.19.2",
+    "emotion": "^10.0.9",
+    "emotion-server": "^10.0.9",
+    "express": "^4.16.4",
+    "next": "^7.0.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-import": "^1.12.0",
+    "eslint": "^5.12.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-babel": "^5.3.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.0",
+    "eslint-plugin-react": "^7.12.4",
+    "next-workbox-webpack-plugin": "^1.1.0",
+    "webpack-pwa-manifest": "^4.0.0"
+  }
+}
