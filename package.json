@@ -6,6 +6,7 @@
   "author": "Deepak Grover <deepakgrover333@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@appbaseio/reactivesearch": "^3.0.0-rc.13",
     "@emotion/babel-preset-css-prop": "^10.0.9",
     "@emotion/core": "^10.0.10",
     "@emotion/styled": "^10.0.11",

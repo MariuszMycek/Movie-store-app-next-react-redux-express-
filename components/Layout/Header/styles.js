@@ -11,7 +11,7 @@ export const headerCls = css`
     }
   }
   .menuBar {
-    padding: 0 20px;
+    padding: 1px 20px;
     overflow: auto;
   }
   .logo {
