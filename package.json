@@ -14,7 +14,7 @@
     "emotion": "^10.0.9",
     "emotion-server": "^10.0.9",
     "express": "^4.16.4",
-    "next": "^7.0.2",
+    "next": "^13.0.3",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   },
